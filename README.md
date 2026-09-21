@@ -36,3 +36,36 @@
 <p align="center">
   <sub>Currently learning and building through practical projects.</sub>
 </p>
+
+<br>
+
+<h2 align="center">🚀 Featured Project</h2>
+
+<h3 align="center">WM Group ERP System</h3>
+
+<p align="center">
+  A practical business management system I'm developing while learning
+  web development, databases, security and business process automation.
+</p>
+
+<p align="center">
+  📋 Annual Licence Tracking &nbsp; • &nbsp;
+  ⚖️ Scale Registry & Repairs &nbsp; • &nbsp;
+  🧾 Quotations & Invoices
+  <br>
+  💳 Payment Tracking &nbsp; • &nbsp;
+  📊 Management Dashboard &nbsp; • &nbsp;
+  📁 Excel / CSV Exports
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
+
+<p align="center">
+  <a href="https://chamithuds.github.io/">
+    <img src="https://img.shields.io/badge/View_Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+</p>
