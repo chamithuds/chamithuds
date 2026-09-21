@@ -23,7 +23,7 @@
 </p>
 
 <br>
-<h3 align="center">Most Used Languages</h3>
+<h3 align="center">Languages & Technologies</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-Working_With-2563EB?style=flat-square&logo=php&logoColor=white">
