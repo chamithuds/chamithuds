@@ -7,11 +7,15 @@
 <h2 align="center">Web Developer & ERP System Builder</h2>
 
 <p align="center">
-  <a href="https://chamithuds.github.io/">Portfolio</a>
-  &nbsp; • &nbsp;
-  <a href="https://chamithu-erp-demo.site.je/auth/login.php">ERP Demo</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/chamithuds">GitHub</a>
+  <a href="https://github.com/chamithuds">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://chamithuds.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white">
+  </a>
+  <a href="https://chamithu-erp-demo.site.je/auth/login.php">
+    <img src="https://img.shields.io/badge/ERP_Demo-0284C7?style=flat-square&logo=googlechrome&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
