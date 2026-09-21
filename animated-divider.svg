@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="22" viewBox="0 0 1000 22">
-<style>.dash{stroke:#38bdf8;stroke-width:2;stroke-linecap:round;stroke-dasharray:80 920;animation:move 4s linear infinite;filter:drop-shadow(0 0 4px #38bdf8)}.base{stroke:#1e293b;stroke-width:1}@keyframes move{to{stroke-dashoffset:-1000}}</style>
-<line x1="20" y1="11" x2="980" y2="11" class="base"/><line x1="20" y1="11" x2="980" y2="11" class="dash"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="22" viewBox="0 0 1000 22"><defs><linearGradient id="g"><stop stop-color="#0d1117"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs><rect y="10" width="1000" height="1" fill="#172033"/><rect y="9" width="180" height="3" rx="2" fill="url(#g)"><animate attributeName="x" values="-180;1000" dur="5s" repeatCount="indefinite"/></rect></svg>

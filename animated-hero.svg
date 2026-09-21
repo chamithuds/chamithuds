@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180">
-<style>
-.bg{fill:#07111f}.line{stroke:#0ea5e9;stroke-width:2;opacity:.5}.t1{font:700 34px Arial;fill:#f8fafc}.t2{font:600 19px Arial;fill:#38bdf8}.t3{font:14px monospace;fill:#64748b}.cursor{fill:#38bdf8;animation:blink 1s steps(1) infinite}.glow{fill:#0ea5e9;opacity:.14;animation:pulse 2.8s ease-in-out infinite}@keyframes blink{50%{opacity:0}}@keyframes pulse{50%{opacity:.3}}
-</style>
-<rect width="1000" height="180" rx="22" class="bg"/><circle cx="500" cy="90" r="145" class="glow"/><path d="M40 28 H960 M40 152 H960" class="line"/>
-<text x="500" y="70" text-anchor="middle" class="t1">Hi, I'm Chamithu Dewapriya</text>
-<text x="500" y="108" text-anchor="middle" class="t2">Web Developer • ERP System Builder • Business Systems</text><rect x="817" y="89" width="3" height="24" class="cursor"/>
-<text x="500" y="138" text-anchor="middle" class="t3">BUILD  •  LEARN  •  IMPROVE  •  REPEAT</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient><filter id="gl"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1000" height="190" fill="#0d1117"/>
+<text x="500" y="60" text-anchor="middle" fill="#f8fafc" font-family="Arial,sans-serif" font-size="31" font-weight="700">Hi, I'm Chamithu Dewapriya</text>
+<text x="500" y="101" text-anchor="middle" fill="#38bdf8" font-family="Arial,sans-serif" font-size="17">Web Developer  •  ERP System Builder  •  Business Systems</text>
+<text x="500" y="137" text-anchor="middle" fill="#64748b" font-family="monospace" font-size="12" letter-spacing="4">BUILD  •  LEARN  •  IMPROVE  •  REPEAT</text>
+<rect x="250" y="164" width="500" height="2" rx="1" fill="#172554"/><rect x="250" y="164" width="150" height="2" rx="1" fill="url(#g)" filter="url(#gl)"><animate attributeName="x" values="250;600;250" dur="4s" repeatCount="indefinite"/></rect>
 </svg>
