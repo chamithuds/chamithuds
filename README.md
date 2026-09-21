@@ -31,11 +31,3 @@
 
 <br>
 
-<h3 align="center">GitHub Activity</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=chamithuds&bg_color=07111F&color=38BDF8&line=2563EB&point=38BDF8&area=true&hide_border=true"
-    alt="Chamithu's GitHub Activity Graph"
-  >
-</p>
