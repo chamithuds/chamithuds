@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="Chamithu Dewapriya GitHub Banner">
+</p>
+<br>
 <h1 align="center">Hi 👋, I'm Chamithu Dewapriya</h1>
 
 <h3 align="center">
