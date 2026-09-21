@@ -19,3 +19,12 @@
 </p>
 
 <br>
+<h3 align="center">Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-Working_With-2563EB?style=flat-square&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-Working_With-0EA5E9?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-Working_With-0284C7?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-Learning-0369A1?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-Working_With-075985?style=flat-square&logo=mysql&logoColor=white">
+</p>
