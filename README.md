@@ -2,25 +2,24 @@
   <img src="./github-banner.png" width="100%" alt="Chamithu Dewapriya GitHub Banner">
 </p>
 <br>
-<h1 align="center">Hi 👋, I'm Chamithu Dewapriya</h1>
+<h2 align="center">Hi 👋 I'm Chamithu Dewapriya</h2>
 
 <h3 align="center">
-  Learning • Building • Improving
+  Web Development • Business Systems • ERP
 </h3>
 
 <p align="center">
-  💻 Web Development &nbsp; • &nbsp;
-  🗄️ Databases &nbsp; • &nbsp;
-  ⚙️ Business Systems & ERP
+  Learning by building practical solutions for real-world business problems.
 </p>
 
 <p align="center">
-  I'm building practical technology solutions while developing hands-on
-  experience in business operations, web development, databases and ERP systems.
+  🔭 Currently building <b>WM Group ERP System</b><br>
+  🌱 Learning <b>PHP • MySQL • JavaScript • Database Design</b><br>
+  ⚡ Turning <b>Ideas → Plans → Projects → Results</b>
 </p>
 
 <p align="center">
   <a href="https://chamithuds.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
