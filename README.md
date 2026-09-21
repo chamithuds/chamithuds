@@ -28,3 +28,14 @@
   <img src="https://img.shields.io/badge/JavaScript-Learning-0369A1?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-Working_With-075985?style=flat-square&logo=mysql&logoColor=white">
 </p>
+
+<br>
+
+<h3 align="center">GitHub Activity</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=chamithuds&bg_color=07111F&color=38BDF8&line=2563EB&point=38BDF8&area=true&hide_border=true"
+    alt="Chamithu's GitHub Activity Graph"
+  >
+</p>
