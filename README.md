@@ -10,11 +10,17 @@
   <a href="https://github.com/chamithuds">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white">
   </a>
-  <a href="https://chamithuds.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat-square&logo=googlechrome&logoColor=white">
+
+  <a href="https://www.linkedin.com/in/chamithu-samarawickrama-62abba392">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
+
+  <a href="https://chamithuds.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-0284C7?style=flat-square&logo=googlechrome&logoColor=white">
+  </a>
+
   <a href="https://chamithu-erp-demo.site.je/auth/login.php">
-    <img src="https://img.shields.io/badge/ERP_Demo-0284C7?style=flat-square&logo=googlechrome&logoColor=white">
+    <img src="https://img.shields.io/badge/ERP_Demo-0369A1?style=flat-square&logo=googlechrome&logoColor=white">
   </a>
 </p>
 
