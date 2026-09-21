@@ -23,3 +23,13 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
 </p>
+<br>
+
+<h2 align="center">💻 Most Used Languages</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamithuds&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"
+    alt="Chamithu's Most Used Languages"
+  />
+</p>
