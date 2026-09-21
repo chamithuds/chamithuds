@@ -30,4 +30,13 @@
 </p>
 
 <br>
+<br>
 
+<h3 align="center">GitHub Streak</h3>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=chamithuds&hide_border=true&background=0D1117&stroke=1E3A5F&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=3B82F6&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B"
+    alt="Chamithu's GitHub Streak"
+  />
+</p>
